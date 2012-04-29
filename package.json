@@ -1,0 +1,16 @@
+{ "author": "Perrin Westrich <crypticswarm@gmail.com> (http://crypticswarm.com)"
+, "name": "instantiator"
+, "description": "Instantiates a JS object based off an object template given bindings."
+, "version": "0.0.1"
+, "homepage": "https://github.com/CrypticSwarm/js-instantiator"
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/CrypticSwarm/js-instantiator.git"
+  }
+, "main": "instantiator.js"
+, "engines":
+  { "node": "~0.6.9" }
+, "dependencies": { "traverse": "0.6.x" }
+, "devDependencies": {}
+, "optionalDependencies": {}
+}
